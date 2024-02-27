@@ -4,7 +4,7 @@ I developed a chat application using Erlang to demonstrate my understanding of t
 
 My purpose for writing this software was to deepen my knowledge of concurrent programming and distributed systems, both of which are fundamental concepts in Erlang. By building a chat application, I aimed to gain hands-on experience with message passing, process spawning, and socket communication in Erlang.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3OHQ0oPcB-w)
 
 # Development Environment
 
